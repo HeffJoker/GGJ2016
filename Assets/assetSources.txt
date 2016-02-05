@@ -1,0 +1,25 @@
+==============
+Asset Sources:
+==============
+
+"Tafi Maradi" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100739
+
+"Ritual" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100466
+
+"Adventureland - Enchanted Tiki Room (Hawaiian War Chant Drums)"
+https://soundcloud.com/user8655089/adventureland-enchanted-tiki
+
+"Volcano"
+https://openclipart.org/detail/196130/volcano
+
+Arrow sprites
+http://kenney.nl/assets/onscreen-controls
+
+Mount Kilimanjaro
+https://openclipart.org/detail/205983/mount-kilimanjaro

@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: bdfa62ef95601eb42b5718e996583e56
+timeCreated: 1454257215
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GodHeadMisc_0
+    21300002: GodHeadMisc_1
+    21300004: GodHeadMisc_2
+    21300006: GodHeadMisc_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GodHeadMisc_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 431
+        width: 256
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -254}
+        - {x: 119, y: -238}
+        - {x: 128, y: -216}
+        - {x: 128, y: -183}
+        - {x: 127, y: -177}
+        - {x: 128, y: -156}
+        - {x: 128, y: -4}
+        - {x: 126, y: 8}
+        - {x: 120, y: 42}
+        - {x: 114, y: 63}
+        - {x: 99, y: 106}
+        - {x: 79, y: 150}
+        - {x: 64, y: 182}
+        - {x: 50, y: 212}
+        - {x: 27, y: 264}
+        - {x: 15, y: 289}
+        - {x: -15, y: 289}
+        - {x: -37, y: 240}
+        - {x: -44, y: 224}
+        - {x: -87, y: 130}
+        - {x: -108, y: 80}
+        - {x: -116, y: 54}
+        - {x: -126, y: 12}
+        - {x: -128, y: -3}
+        - {x: -128, y: -163}
+        - {x: -127, y: -199}
+        - {x: -112, y: -223}
+        - {x: -101, y: -238}
+        - {x: -94, y: -246}
+        - {x: -68, y: -267}
+        - {x: -54, y: -276}
+        - {x: -42, y: -283}
+        - {x: -22, y: -289}
+        - {x: 25, y: -289}
+        - {x: 39, y: -286}
+        - {x: 60, y: -278}
+        - {x: 83, y: -267}
+    - name: GodHeadMisc_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 420
+        width: 256
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -261.5}
+        - {x: 106, y: -251.5}
+        - {x: 115, y: -241.5}
+        - {x: 119, y: -236.5}
+        - {x: 128, y: -217.5}
+        - {x: 128, y: -183.5}
+        - {x: 127, y: -176.5}
+        - {x: 128, y: -155.5}
+        - {x: 128, y: -4.5}
+        - {x: 124, y: 24.5}
+        - {x: 117, y: 49.5}
+        - {x: 110, y: 72.5}
+        - {x: 99, y: 103.5}
+        - {x: 80, y: 147.5}
+        - {x: 52, y: 207.5}
+        - {x: 35, y: 249.5}
+        - {x: 15, y: 287.5}
+        - {x: 14, y: 288.5}
+        - {x: -15, y: 288.5}
+        - {x: -33, y: 254.5}
+        - {x: -49, y: 212.5}
+        - {x: -81, y: 143.5}
+        - {x: -93, y: 115.5}
+        - {x: -98, y: 105.5}
+        - {x: -107, y: 82.5}
+        - {x: -116, y: 50.5}
+        - {x: -125, y: 19.5}
+        - {x: -128, y: -3.5}
+        - {x: -128, y: -163.5}
+        - {x: -127, y: -189.5}
+        - {x: -127, y: -198.5}
+        - {x: -113, y: -221.5}
+        - {x: -98, y: -243.5}
+        - {x: -88, y: -249.5}
+        - {x: -69, y: -267.5}
+        - {x: -36, y: -285.5}
+        - {x: -22, y: -288.5}
+        - {x: 31, y: -288.5}
+        - {x: 45, y: -285.5}
+        - {x: 60, y: -279.5}
+        - {x: 84, y: -266.5}
+    - name: GodHeadMisc_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 656
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 87}
+        - {x: -37, y: 87}
+        - {x: -64, y: 53}
+        - {x: -64, y: -75}
+        - {x: -43, y: -87}
+        - {x: 49, y: -87}
+        - {x: 64, y: -67}
+        - {x: 64, y: 51}
+        - {x: 33, y: 84}
+    - name: GodHeadMisc_3
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 675
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 43}
+        - {x: -22, y: 43}
+        - {x: -36, y: 26}
+        - {x: -36, y: -38}
+        - {x: -19, y: -43}
+        - {x: 24, y: -43}
+        - {x: 34, y: -35}
+        - {x: 36, y: -29}
+        - {x: 36, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

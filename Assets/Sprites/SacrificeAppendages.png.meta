@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: e4065422db415ca44b3ed0f0cce3b513
+timeCreated: 1454190987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SacrificeAppendages_0
+    21300002: SacrificeAppendages_1
+    21300004: SacrificeAppendages_2
+    21300006: SacrificeAppendages_3
+    21300008: SacrificeAppendages_4
+    21300010: SacrificeAppendages_5
+    21300012: SacrificeAppendages_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SacrificeAppendages_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 631
+        width: 382
+        height: 178
+      alignment: 9
+      pivot: {x: 0.91756356, y: 0.7826223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.490723, y: 13.693237}
+        - {x: 0.49072266, y: 38.693237}
+        - {x: -28.509277, y: 38.693237}
+        - {x: -43.509277, y: 35.693237}
+        - {x: -315.50928, y: -37.306763}
+        - {x: -350.50928, y: -60.306763}
+        - {x: -350.50928, y: -109.30676}
+        - {x: -348.50928, y: -130.30676}
+        - {x: -337.50928, y: -133.30676}
+        - {x: -290.50928, y: -139.30676}
+        - {x: -222.50928, y: -139.30676}
+        - {x: -182.50928, y: -92.30676}
+        - {x: 29.490723, y: -41.306763}
+        - {x: 31.490723, y: -33.306763}
+    - name: SacrificeAppendages_1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 612
+        width: 328
+        height: 176
+      alignment: 9
+      pivot: {x: 0.89278764, y: 0.51394343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -276.83435, y: 85.54596}
+        - {x: -292.83435, y: 69.54596}
+        - {x: -292.83435, y: 3.5459595}
+        - {x: -253.83435, y: -26.45404}
+        - {x: -246.83435, y: -30.45404}
+        - {x: -237.83435, y: -32.45404}
+        - {x: -232.83435, y: -64.45404}
+        - {x: -101.83435, y: -69.45404}
+        - {x: -72.83435, y: -83.45404}
+        - {x: -51.83435, y: -90.45404}
+        - {x: -0.8343506, y: -90.45404}
+        - {x: 35.16565, y: -70.45404}
+        - {x: 35.16565, y: 24.54596}
+        - {x: -34.83435, y: 85.54596}
+    - name: SacrificeAppendages_2
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 585
+        width: 337
+        height: 477
+      alignment: 9
+      pivot: {x: 0.3834906, y: 0.9398659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156.76367, y: -180.31604}
+        - {x: 100.76367, y: -164.31604}
+        - {x: 14.763672, y: -185.31604}
+        - {x: -2.2363281, y: -205.31604}
+        - {x: -30.236328, y: -236.31604}
+        - {x: -34.23633, y: -291.31604}
+        - {x: -17.236328, y: -327.31604}
+        - {x: 47.76367, y: -353.31604}
+        - {x: 97.76367, y: -336.31604}
+        - {x: 80.76367, y: -267.31604}
+        - {x: 128.76367, y: -285.31604}
+        - {x: 108.76367, y: -327.31604}
+        - {x: 88.76367, y: -344.31604}
+        - {x: 45.76367, y: -370.31604}
+        - {x: -40.23633, y: -329.31604}
+        - {x: -57.23633, y: -271.31604}
+        - {x: -6.236328, y: -178.31604}
+        - {x: 44.76367, y: -120.31604}
+        - {x: 72.76367, y: -85.31604}
+        - {x: 84.76367, y: -37.31604}
+        - {x: 40.76367, y: 28.68396}
+        - {x: -27.236328, y: 28.68396}
+        - {x: -53.23633, y: -34.31604}
+        - {x: -121.23633, y: -218.31604}
+        - {x: -129.23633, y: -252.31604}
+        - {x: -129.23633, y: -345.31604}
+        - {x: -126.23633, y: -368.31604}
+        - {x: -113.23633, y: -389.31604}
+        - {x: -42.23633, y: -448.31604}
+        - {x: 104.76367, y: -448.31604}
+        - {x: 189.76367, y: -399.31604}
+        - {x: 207.76367, y: -344.31604}
+        - {x: 207.76367, y: -244.31604}
+    - name: SacrificeAppendages_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 225
+        height: 293
+      alignment: 9
+      pivot: {x: 0.4945467, y: 0.90620625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.72699, y: -155.51843}
+        - {x: 103.72699, y: -163.51843}
+        - {x: 113.72699, y: -135.51843}
+        - {x: 113.72699, y: -88.51843}
+        - {x: 33.72699, y: 27.481567}
+        - {x: -33.27301, y: 27.481567}
+        - {x: -74.27301, y: -8.518433}
+        - {x: -110.27301, y: -76.51843}
+        - {x: -111.27301, y: -99.51843}
+        - {x: -111.27301, y: -185.51843}
+        - {x: -76.27301, y: -242.51843}
+        - {x: -6.2730103, y: -265.51843}
+        - {x: 33.72699, y: -265.51843}
+        - {x: 45.72699, y: -253.51843}
+        - {x: 37.72699, y: -174.51843}
+        - {x: 15.72699, y: -105.51843}
+    - name: SacrificeAppendages_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 50
+        width: 210
+        height: 236
+      alignment: 9
+      pivot: {x: 0.78045595, y: 0.8431423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.104248, y: -63.981583}
+        - {x: 46.104248, y: -4.9815826}
+        - {x: 44.104248, y: 9.018417}
+        - {x: 5.104248, y: 36.018417}
+        - {x: -3.895752, y: 37.018417}
+        - {x: -50.895752, y: 37.018417}
+        - {x: -105.89575, y: 3.0184174}
+        - {x: -153.89575, y: -38.981583}
+        - {x: -163.89575, y: -81.98158}
+        - {x: -163.89575, y: -192.98158}
+        - {x: -146.89575, y: -198.98158}
+        - {x: -70.89575, y: -198.98158}
+        - {x: -53.895752, y: -183.98158}
+        - {x: -27.895752, y: -120.98158}
+        - {x: 43.104248, y: -69.98158}
+    - name: SacrificeAppendages_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 56
+        width: 232
+        height: 223
+      alignment: 9
+      pivot: {x: 0.12449804, y: 0.8741507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.116455, y: 28.064392}
+        - {x: -16.883545, y: 28.064392}
+        - {x: -28.883545, y: 21.064392}
+        - {x: -28.883545, y: -34.935608}
+        - {x: 45.116455, y: -162.93561}
+        - {x: 58.116455, y: -177.93561}
+        - {x: 74.116455, y: -194.93561}
+        - {x: 163.11646, y: -194.93561}
+        - {x: 203.11646, y: -168.93561}
+        - {x: 203.11646, y: -103.93561}
+    - name: SacrificeAppendages_6
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 52
+        width: 218
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4043176, y: 0.86517686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.85876, y: -64.02457}
+        - {x: 113.858765, y: -52.024567}
+        - {x: 90.858765, y: -44.024567}
+        - {x: 32.858765, y: 33.975433}
+        - {x: -46.141235, y: 33.975433}
+        - {x: -48.141235, y: -21.024567}
+        - {x: -88.141235, y: -60.024567}
+        - {x: -88.141235, y: -170.02457}
+        - {x: -56.141235, y: -218.02457}
+        - {x: 86.858765, y: -218.02457}
+        - {x: 109.858765, y: -202.02457}
+        - {x: 87.858765, y: -129.02457}
+        - {x: 129.85876, y: -125.02457}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

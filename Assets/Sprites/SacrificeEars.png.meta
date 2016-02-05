@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 8bae5235c585f964c9e6c9b1027b43dd
+timeCreated: 1454191047
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SacrificeEars_0
+    21300002: SacrificeEars_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SacrificeEars_0
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 403
+        width: 357
+        height: 407
+      alignment: 9
+      pivot: {x: 0.90212405, y: 0.2527924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.058289, y: -68.886505}
+        - {x: 6.9417114, y: -54.886505}
+        - {x: 22.941711, y: -36.886505}
+        - {x: 30.941711, y: -20.886505}
+        - {x: 34.94171, y: -1.8865051}
+        - {x: 34.94171, y: 54.113495}
+        - {x: 32.94171, y: 66.113495}
+        - {x: 9.941711, y: 147.1135}
+        - {x: -1.0582886, y: 171.1135}
+        - {x: -17.058289, y: 192.1135}
+        - {x: -34.05829, y: 211.1135}
+        - {x: -70.05829, y: 250.1135}
+        - {x: -102.05829, y: 271.1135}
+        - {x: -134.05829, y: 284.1135}
+        - {x: -208.05829, y: 304.1135}
+        - {x: -221.05829, y: 304.1135}
+        - {x: -223.05829, y: 295.1135}
+        - {x: -224.05829, y: 264.1135}
+        - {x: -230.05829, y: 246.1135}
+        - {x: -250.05829, y: 259.1135}
+        - {x: -261.0583, y: 256.1135}
+        - {x: -265.0583, y: 219.1135}
+        - {x: -281.0583, y: 222.1135}
+        - {x: -287.0583, y: 215.1135}
+        - {x: -306.0583, y: 171.1135}
+        - {x: -315.0583, y: 150.1135}
+        - {x: -320.0583, y: 129.1135}
+        - {x: -322.0583, y: 119.113495}
+        - {x: -322.0583, y: 58.113495}
+        - {x: -319.0583, y: 35.113495}
+        - {x: -315.0583, y: 23.113495}
+        - {x: -309.0583, y: 6.113495}
+        - {x: -303.0583, y: -7.886505}
+        - {x: -292.0583, y: -24.886505}
+        - {x: -249.05829, y: -65.886505}
+        - {x: -206.05829, y: -90.886505}
+        - {x: -188.05829, y: -97.886505}
+        - {x: -171.05829, y: -102.886505}
+        - {x: -135.05829, y: -102.886505}
+        - {x: -109.05829, y: -95.886505}
+        - {x: -64.05829, y: -80.886505}
+        - {x: -40.05829, y: -77.886505}
+    - name: SacrificeEars_1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 396
+        width: 357
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -167.5, y: 51}
+        - {x: -178.5, y: 19}
+        - {x: -178.5, y: -159}
+        - {x: -100.5, y: -203}
+        - {x: 82.5, y: -203}
+        - {x: 178.5, y: -151}
+        - {x: 178.5, y: 184}
+        - {x: 174.5, y: 203}
+        - {x: -44.5, y: 203}
+        - {x: -109.5, y: 126}
+      - - {x: -47.5, y: -172}
+        - {x: 97.5, y: 86}
+        - {x: 119.5, y: 90}
+        - {x: 126.5, y: 94}
+      - - {x: 97.5, y: -71}
+        - {x: 105.5, y: -35}
+        - {x: 105.5, y: 29}
+        - {x: 62.5, y: 73}
+        - {x: -30.5, y: 73}
+        - {x: -83.5, y: 57}
+        - {x: -83.5, y: 25}
+        - {x: -71.5, y: 24}
+        - {x: -79.5, y: -118}
+        - {x: -71.5, y: -126}
+        - {x: -60.5, y: -128}
+        - {x: -37.5, y: -128}
+        - {x: -12.5, y: -142}
+        - {x: 16.5, y: -142}
+        - {x: 57.5, y: -123}
+        - {x: 70.5, y: -114}
+      - - {x: 12.5, y: -69}
+        - {x: 0.5, y: -69}
+        - {x: -70.5, y: -98}
+        - {x: -70.5, y: -103}
+        - {x: -65.5, y: -108}
+        - {x: -60.5, y: -110}
+        - {x: -40.5, y: -110}
+        - {x: -20.5, y: -105}
+        - {x: -2.5, y: -94}
+        - {x: 12.5, y: -81}
+      - - {x: -77.5, y: -79}
+        - {x: -83.5, y: -86}
+        - {x: -83.5, y: -96}
+        - {x: -48.5, y: -96}
+        - {x: -25.5, y: -80}
+        - {x: -25.5, y: -60}
+        - {x: -28.5, y: -59}
+      - - {x: -57.5, y: -11}
+        - {x: -72.5, y: -23}
+        - {x: -72.5, y: -41}
+        - {x: 1.5, y: -41}
+        - {x: 1.5, y: -25}
+        - {x: -5.5, y: -11}
+      - - {x: -80.5, y: -34}
+        - {x: 55.5, y: -34}
+        - {x: 55.5, y: 18}
+        - {x: 34.5, y: 36}
+        - {x: 33.5, y: 37}
+        - {x: -51.5, y: 37}
+        - {x: -80.5, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

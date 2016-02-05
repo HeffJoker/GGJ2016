@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 859257babad7ad84a81c5e6b8d240b6f
+timeCreated: 1454183922
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerAvatarArms_0
+    21300002: PlayerAvatarArms_1
+    21300004: PlayerAvatarArms_2
+    21300006: PlayerAvatarArms_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerAvatarArms_0
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 506
+        width: 195
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5817996, y: 0.919079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.54907, y: -51.018433}
+        - {x: 81.54907, y: -11.018433}
+        - {x: 19.549072, y: 22.981567}
+        - {x: -85.45093, y: 22.981567}
+        - {x: -97.45093, y: 19.981567}
+        - {x: -113.45093, y: -36.018433}
+        - {x: -113.45093, y: -216.01843}
+        - {x: -90.45093, y: -245.01843}
+        - {x: -61.450928, y: -261.01843}
+        - {x: -1.4509277, y: -261.01843}
+        - {x: 23.549072, y: -208.01843}
+        - {x: 30.549072, y: -128.01843}
+        - {x: 28.549072, y: -100.01843}
+    - name: PlayerAvatarArms_1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 546
+        width: 194
+        height: 284
+      alignment: 9
+      pivot: {x: 0.43042874, y: 0.9147586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.496826, y: 24.208557}
+        - {x: -56.503174, y: 24.208557}
+        - {x: -83.503174, y: -15.791443}
+        - {x: -83.503174, y: -56.791443}
+        - {x: -55.503174, y: -70.79144}
+        - {x: -25.503174, y: -142.79144}
+        - {x: -8.503174, y: -241.79144}
+        - {x: 2.4968262, y: -259.79144}
+        - {x: 60.496826, y: -259.79144}
+        - {x: 96.496826, y: -249.79144}
+        - {x: 108.496826, y: -211.79144}
+        - {x: 110.496826, y: -202.79144}
+        - {x: 110.496826, y: -15.791443}
+    - name: PlayerAvatarArms_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 181
+        width: 431
+        height: 227
+      alignment: 9
+      pivot: {x: 0.05304408, y: 0.45675808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 289.138, y: -103.68408}
+        - {x: 317.138, y: -103.68408}
+        - {x: 370.138, y: -72.68408}
+        - {x: 400.138, y: -40.684082}
+        - {x: 398.138, y: -9.684082}
+        - {x: 408.138, y: 8.315918}
+        - {x: 408.138, y: 44.315918}
+        - {x: 391.138, y: 61.315918}
+        - {x: 360.138, y: 84.31592}
+        - {x: 300.138, y: 121.31592}
+        - {x: 273.138, y: 123.31592}
+        - {x: 214.138, y: 123.31592}
+        - {x: 183.138, y: 95.31592}
+        - {x: 104.138, y: 98.31592}
+        - {x: 98.138, y: 80.31592}
+        - {x: 24.138, y: 51.315918}
+        - {x: 3.1380005, y: 43.315918}
+        - {x: -20.862, y: 20.315918}
+        - {x: -22.862, y: 15.315918}
+        - {x: -22.862, y: -30.684082}
+        - {x: 17.138, y: -62.684082}
+        - {x: 54.138, y: -67.68408}
+        - {x: 112.138, y: -65.68408}
+        - {x: 128.138, y: -101.68408}
+        - {x: 144.138, y: -103.68408}
+        - {x: 196.138, y: -103.68408}
+        - {x: 204.138, y: -73.68408}
+        - {x: 243.138, y: -97.68408}
+        - {x: 275.138, y: -102.68408}
+    - name: PlayerAvatarArms_3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 168
+        width: 414
+        height: 244
+      alignment: 9
+      pivot: {x: 0.040618453, y: 0.44468462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 319.18396, y: -108.50305}
+        - {x: 360.18396, y: -74.50305}
+        - {x: 393.18396, y: -19.503052}
+        - {x: 394.18396, y: 1.4969482}
+        - {x: 397.18396, y: 12.496948}
+        - {x: 397.18396, y: 62.49695}
+        - {x: 380.18396, y: 81.49695}
+        - {x: 338.18396, y: 110.49695}
+        - {x: 297.18396, y: 128.49695}
+        - {x: 280.18396, y: 135.49695}
+        - {x: 246.18396, y: 135.49695}
+        - {x: 220.18396, y: 90.49695}
+        - {x: 116.18396, y: 91.49695}
+        - {x: 105.18396, y: 79.49695}
+        - {x: 99.18396, y: 38.49695}
+        - {x: 74.18396, y: 58.49695}
+        - {x: 27.18396, y: 53.49695}
+        - {x: -16.81604, y: 18.496948}
+        - {x: -16.81604, y: -33.50305}
+        - {x: -7.81604, y: -47.50305}
+        - {x: 73.18396, y: -75.50305}
+        - {x: 116.18396, y: -62.50305}
+        - {x: 132.18396, y: -99.50305}
+        - {x: 164.18396, y: -108.50305}
+        - {x: 198.18396, y: -108.50305}
+        - {x: 213.18396, y: -69.50305}
+        - {x: 268.18396, y: -102.50305}
+        - {x: 289.18396, y: -108.50305}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
